@@ -197,4 +197,4 @@ No primeiro pipeline (sem tuning), números esperados (podem variar levemente de
 
 ---
 
-### Anexo (exemplo de melhores parâmetros impressos na saída)
+
