@@ -5,3 +5,9 @@ Alunos:
 Alberto Zilio /
 Roni Pereira
 
+
+Vamos utilizar o dataset presente no link:
+
+https://archive.ics.uci.edu/dataset/10/automobile
+
+
